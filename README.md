@@ -10,3 +10,7 @@
 
 ## Csharp
 * [Async Await](https://www.youtube.com/watch?v=2moh18sh5p4)
+
+## Observability
+* ["How NOT to Measure Latency" by Gil Tene](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
+* [Micrometer](https://spring.io/blog/2018/03/16/micrometer-spring-boot-2-s-new-application-metrics-collector)
